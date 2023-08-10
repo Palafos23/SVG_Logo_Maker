@@ -1,0 +1,4 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+              <polygon stroke="yellow" stroke-width="2" height="100" width="100" points="200,10 270,190 120,190" fill="black"/>
+              <text stroke-width="3" x="150" y="160" font-size ="65" fill="yellow">JP7</text>
+              </svg>
