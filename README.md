@@ -62,10 +62,6 @@
 
   -clone repository to working folder. 
 
-  -Do an npm install in terminal. 
-
-  
-
   ## Usage Information
   -run node index.js in folders terminal.
 
