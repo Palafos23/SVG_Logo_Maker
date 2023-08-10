@@ -51,12 +51,12 @@
   [Questions](#questions)
 
 
-  ## Installation Instructions
+  ## Installation
   -Install [node.js](https://nodejs.org/en) to your computer.
 
   -clone repository to working folder. 
 
-  ## Usage Information
+  ## Usage
   -run node index.js in folders terminal.
 
   -answer questions. 
