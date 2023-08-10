@@ -39,10 +39,10 @@
 
   ## Table of contents
   
-  [Installation Instuctions](#installationInstructions)
+  [Installation](#installation)
   
 
-  [Usage Information](#usageInformation)
+  [Usage](#usage)
 
   
   [License](#license)
