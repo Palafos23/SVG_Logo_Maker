@@ -43,14 +43,8 @@
   
 
   [Usage Information](#usageInformation)
-  
 
-  [Contribution Guidelines](#contributionGuidelines)
   
-
-  [Test Instructions](#testInstructions)
-  
-
   [License](#license)
   
 
