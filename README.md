@@ -74,7 +74,8 @@
   -once completed svg.logo file will be created under Examples. 
 
   ## ScreenShots
-  ![Screenshot (26)newlogocreated](https://github.com/Palafos23/SVG_Logo_Maker/assets/132620047/e1207173-7768-4b59-b79d-86e16f127c97)![Screenshot (24)new](https://github.com/Palafos23/SVG_Logo_Maker/assets/132620047/1d3c71ae-1ef0-41fe-86ef-a9753666bb17)
+  ![Screenshot (26)newlogocreated](https://github.com/Palafos23/SVG_Logo_Maker/assets/132620047/e1207173-7768-4b59-b79d-86e16f127c97)
+  ![Screenshot (24)new](https://github.com/Palafos23/SVG_Logo_Maker/assets/132620047/1d3c71ae-1ef0-41fe-86ef-a9753666bb17)
 
   ## License
 
